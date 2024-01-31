@@ -1,3 +1,3 @@
 node('init') {
-    sh 'py main.py'
+    sh 'python3 main.py'
 }
